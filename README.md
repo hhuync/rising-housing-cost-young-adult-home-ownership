@@ -64,8 +64,8 @@ This project aimed to combine analytical storytelling with accessible visual des
 
 ## Author
 
-Johnny Nguyen
-Data Analytics & Studio Art
+Johnny Nguyen<br>
+Data Analytics & Studio Art<br>
 Dickinson College
 
 LinkedIn: https://linkedin.com/in/hhuync
